@@ -1,1 +1,2 @@
 # odin-recipes
+This current project is all about like creating a recipe book. In this project, I will become familiar with HTML in its elements, tags, and attributes; because so far these are the things I know about HTML. Before starting this project, I learned all about the command-line interface, it's a tool I've been using as I follow along this course, although my laptop is on fire each time its opened. I will update this once I'm done with the project and also add in some lessons I learned along the way. Thanks for reading, you got this self!
